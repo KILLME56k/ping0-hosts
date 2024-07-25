@@ -1,0 +1,32 @@
+jnb-za-ping.vultr.com Johannesburg - Africa do Sul
+blr-in-ping.vultr.com Bangalore - India
+del-in-ping.vultr.com Delhi NCR - India
+bom-in-ping.vultr.com Mumbai - India
+osk-jp-ping.vultr.com Osaka - Japao
+sel-kor-ping.vultr.com Seoul - Coreia do Sul
+sgp-ping.vultr.com Singapore
+tlv-il-ping.vultr.com Tel Aviv - Israel
+hnd-jp-ping.vultr.com Tokyo - Japao
+mel-au-ping.vultr.com Melbourne - Australia
+syd-au-ping.vultr.com Sydney - Australia
+ams-nl-ping.vultr.com Amsterdam - Holanda
+fra-de-ping.vultr.com Frankfurt - Alemanha
+lon-gb-ping.vultr.com London - Inglaterra
+mad-es-ping.vultr.com Madrid - Espanha
+man-uk-ping.vultr.com Manchester - Inglaterra
+par-fr-ping.vultr.com Paris - Franca
+sto-se-ping.vultr.com Stockholm - Suecia
+waw-pl-ping.vultr.com Warsaw - Polonia
+ga-us-ping.vultr.com Atlanta - EUA
+il-us-ping.vultr.com Chicago - EUA
+tx-us-ping.vultr.com Dallas - EUA
+hon-hi-us-ping.vultr.com Honolulu - EUA
+lax-ca-us-ping.vultr.com Los Angeles - EUA
+mex-mx-ping.vultr.com Mexico City - EUA
+fl-us-ping.vultr.com Miami - EUA
+nj-us-ping.vultr.com New Jersey - EUA
+wa-us-ping.vultr.com Seattle - EUA
+sjo-ca-us-ping.vultr.com Silicon Valley - EUA
+tor-ca-ping.vultr.com Toronto - Canada
+scl-cl-ping.vultr.com Santiago - Chile
+sao-br-ping.vultr.com Sao Paulo - Brasil
