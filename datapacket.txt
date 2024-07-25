@@ -1,0 +1,51 @@
+ams.download.datapacket.com Amsterdam - Holanda
+ath.download.datapacket.com Atenas - Grécia
+bra.download.datapacket.com Bratislava - Eslovaquia
+bru.download.datapacket.com Bruxelas - Bélgica
+buc.download.datapacket.com Bucharest - Romenia
+cph.download.datapacket.com Copenhagen - Dinamarca
+dub.download.datapacket.com Dublin - Irlanda
+fra.download.datapacket.com Frankfurt - Alemanha
+kyi.download.datapacket.com Kiev - Ucrania
+lis.download.datapacket.com Lisboa - Portugal
+lon.download.datapacket.com London - Inglaterra
+mad.download.datapacket.com Madrid - Espanha
+mrs.download.datapacket.com Marseille - Franca
+mil.download.datapacket.com Milan - Italia
+plm.download.datapacket.com Palermo - Itália
+par.download.datapacket.com Paris - Franca
+prg.download.datapacket.com Prague - Republica Checa
+sof.download.datapacket.com Sofia - Bulgaria
+sto.download.datapacket.com Stockholm - Suecia
+vie.download.datapacket.com Vienna - Austria
+war.download.datapacket.com Warsaw - Polonia
+zag.download.datapacket.com Zagreb - Croacia
+zur.download.datapacket.com Zurich - Suica
+ash.download.datapacket.com Ashburn - EUA
+atl.download.datapacket.com Atlanta - EUA
+bos.download.datapacket.com Boston - EUA
+chi.download.datapacket.com Chicago - EUA
+dal.download.datapacket.com Dallas - EUA
+den.download.datapacket.com Denver - EUA
+hou.download.datapacket.com Houston - EUA
+lax.download.datapacket.com Los Angeles - EUA
+mca.download.datapacket.com McAllen - EUA
+mia.download.datapacket.com Miami - EUA
+ewr.download.datapacket.com New Jersey - EUA
+nyc.download.datapacket.com New York - EUA
+sjc.download.datapacket.com Sao Jose - EUA
+sea.download.datapacket.com Seattle - EUA
+tor.download.datapacket.com Toronto - Canada
+van.download.datapacket.com Vancouver - Canadá
+hkg.download.datapacket.com Hong Kong
+sgp.download.datapacket.com Singapura
+syd.download.datapacket.com Sydney - Australia
+tyo.download.datapacket.com Tokyo - Japao
+bog.download.datapacket.com Bogota - Colômbia
+lim.download.datapacket.com Lima - Peru
+qro.download.datapacket.com Queretaro - México
+scl.download.datapacket.com Santiago - Chile
+sao.download.datapacket.com Sao Paulo - Brasil
+ist.download.datapacket.com Istanbul - Turquia
+jnb.download.datapacket.com Johannesburg - Africa do Sul
+tlv.download.datapacket.com Tel Aviv - Israel
