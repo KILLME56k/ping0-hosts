@@ -1,0 +1,20 @@
+mco.testepower.com.br Maceio - AL
+mns.testepower.com.br Manaus - AM
+sdr.testepower.com.br Salvador - BA
+fla.testepower.com.br Fortaleza - CE
+bsa.testepower.com.br Brasilia - DF
+vta.testepower.com.br Vitoria - ES
+bhe.testepower.com.br Belo Horizonte - MG
+iig.testepower.com.br Ipatinga - MG
+gvs.testepower.com.br Governador Valadares - MG
+blm.testepower.com.br Belem - PA
+jpa.testepower.com.br Joao Pessoa - PB
+rce.testepower.com.br Recife - PE
+cta.testepower.com.br Curitiba - PR
+rjo.testepower.com.br Rio de Janeiro - RJ
+ntl.testepower.com.br Natal - RN
+pae.testepower.com.br Porto Alegre - RS
+soo.testepower.com.br Sao Jose - SC
+aju.testepower.com.br Aracaju - SE
+testedevelocidade.vivo.com.br Sao Paulo - SP
+pmj.testepower.com.br Palmas - TO
