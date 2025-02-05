@@ -1,0 +1,9 @@
+saopaulo.speedtest.angolacables.co.ao      Angola Cables (61321)  São Paulo - BR
+miami.speedtest.angolacables.co.ao         Angola Cables (58827)  Miami, FL - US
+fortaleza.speedtest.angolacables.co.ao     Angola Cables (58829)  Fortaleza - BR
+lisboa01.speedtest.angolacables.co.ao      Angola Cables (61319)  Lisboa - PT
+londres.speedtest.angolacables.co.ao       Angola Cables (48434)  London - GB
+capetown.speedtest.angolacables.co.ao      Angola Cables (17675)  Cape Town - ZA
+johannesburg.speedtest.angolacables.co.ao  Angola Cables (61308)  Johannesburg - ZA
+losangeles.speedtest.angolacables.co.ao    Angola Cables (61318)  Los Angeles, CA - US
+singapura.speedtest.angolacables.co.ao     Angola Cables (61320)  Singapore - SG
