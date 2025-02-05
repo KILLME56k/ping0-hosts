@@ -1,0 +1,22 @@
+sa.speedtest.i3d.net     i3D.net (21568) Sao Paulo - BR
+nj.na.speedtest.i3d.net  i3D.net (43263) Newark, NJ - US
+va.na.speedtest.i3d.net  i3D.net (21502) Ashburn, VA - US
+ga.na.speedtest.i3d.net  i3D.net (41360) Atlanta, GA - US
+qc.na.speedtest.i3d.net  i3D.net (40879) Montreal, QC - CA
+ar.sa.speedtest.i3d.net  i3D.net (44792) Buenos Aires - AR
+es.eu.speedtest.i3d.net  i3D.net (21509) Madrid - ES
+cl.sa.speedtest.i3d.net  i3D.net (46724) Santiago - CL
+eu.speedtest.i3d.net     i3D.net (21509) Rotterdam - NL
+tx.na.speedtest.i3d.net  i3D.net (43860) Dallas, TX - US
+de.eu.speedtest.i3d.net  i3D.net (53651) Frankfurt am Main - DE
+it.eu.speedtest.i3d.net  i3D.net (45809) Milan - IT
+se.eu.speedtest.i3d.net  i3D.net (44597) Stockholm - SE
+ro.eu.speedtest.i3d.net  i3D.net (51259) Bucharest - RO
+ca.na.speedtest.i3d.net  i3D.net (21541) Los Angeles, CA - US
+ae.ap.speedtest.i3d.net  i3D.net (22129) Dubai - AE
+jp.as.speedtest.i3d.net  i3D.net (21569) Tokyo - JP
+af.speedtest.i3d.net     i3D.net (21570) Johannesburg - ZA
+oc.speedtest.13d.net     i3D.net (21567) Sydney - AU
+in.as.speedtest.i3d.net  i3D.net (40507) Mumbai - IN
+hk.ap.speedtest.i3d.net  i3D.net (22126) Hong Kong - HK
+sg.as.speedtest.i3d.net  i3D.net (40508) Singapore - SG

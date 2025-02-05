@@ -1,0 +1,30 @@
+oxfrma-speedtest-ookla-01.st.charter.com  Spectrum (2405)  Oxford, MA - US
+tampfl-speedtest-ookla-01.st.charter.com  Spectrum (17170) Tampa, FL - US
+nycny-speedtest-ookla-01.st.charter.com   Spectrum (16976) New York, NY - US
+aldlmi-speedtest-ookla-01.st.charter.com  Spectrum (2406)  Allendale, MI - US
+clboh-speedtest-ookla-04.st.charter.com   Spectrum (63372) Columbus, OH - US
+austx-speedtest-ookla-01.st.charter.com   Spectrum (68132) Austin, TX - US
+olvemo-speedtest-ookla-01.st.charter.com  Spectrum (2391)  Olivette, MO - US
+radnc-speedtest-ookla-01.st.charter.com   Spectrum (58326) Durham, NC - US
+euclwi-speedtest-ookla-01.st.charter.com  Spectrum (2404)  Eau Claire, WI - US
+chynwy-speedtest-ookla-01.st.charter.com  Spectrum (5859)  Cheyenne, WY - US
+stcdmn-speedtest-ookla-01.st.charter.com  Spectrum (2656)  St Cloud, MN - US
+gdjtco-speedtest-ookla-01.st.charter.com  Spectrum (5860)  Grand Junction, CO - US
+syrny-speedtest-ookla-02.st.charter.com   Spectrum (58346) Syracuse, NY - US
+detmi-speedtest-ookla-01.st.charter.com   Spectrum (16973) Livonia, MI - US
+blngmt-speedtest-ookla-01.st.charter.com  Spectrum (5856)  Billings, MT - US
+ftwotx-speedtest-ookla-01.st.charter.com  Spectrum (2409)  Fort Worth, TX - US
+sghlga-speedtest-ookla-01.st.charter.com  Spectrum (2401)  Sugar Hill, GA - US
+msslmt-speedtest-ookla-01.st.charter.com  Spectrum (5858)  Missoula, MT - US
+lsanca-speedtest-ookla-02.st.charter.com  Spectrum (57682) Los Angeles, CA - US
+dnvrco-speedtest-ookla-01.st.charter.com  Spectrum (16968) Centennial, CO - US
+snloca-speedtest-ookla-01.st.charter.com  Spectrum (2403)  San Luis Obispo, CA - US
+kgpttn-speedtest-ookla-01.st.charter.com  Spectrum (16972) Kingsport, TN - US
+krnyne-speedtest-ookla-01.st.charter.com  Spectrum (2411)  Kearney, NE - US
+renonv-speedtest-ookla-01.st.charter.com  Spectrum (2408)  Reno, NV - US
+mtpkca-speedtest-ookla-01.st.charter.com  Spectrum (2402)  Monterey Park, CA - US
+mdfdor-speedtest-ookla-01.st.charter.com  Spectrum (2407)  Medford, OR - US
+csprwy-speedtest-ookla-01.st.charter.com  Spectrum (5857)  Casper, WY - US
+slidla-speedtest-ookla-01.st.charter.com  Spectrum (2410)  Slidell, LA - US
+milnhi-speedtest-ookla-01.st.charter.com  Spectrum (58345) Mililani, HI - US
+kmlahi-speedtest-ookla-01.st.charter.com  Spectrum (16979) Mauna Lani, HI - US

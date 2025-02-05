@@ -1,0 +1,43 @@
+speedtestmadrid2.vodafone.es          Vodafone ES (14539)                            Alcobendas - ES
+speedtestgrancanaria.vodafone.es      Vodafone ES (14543)                            Gran Canaria - ES
+speedtest-ranh.vodafone.pt            Vodafone Portugal (47077)                      Vila Nova de Gaia - PT
+speedtest-alfr.vodafone.pt            Vodafone Portugal (46985)                      Lisboa - PT
+speedtest02.vodafone.com.qa           Vodafone Qatar PQSC (51657)                    Rayan - QA
+speedtest-avei.vodafone.pt            Vodafone Portugal (54303)                      Aveiro - PT
+speedtest-boav.vodafone.pt            Vodafone Portugal (47363)                      Porto - PT
+speedtestcluj.vodafone.ro             Vodafone Romania Mobile – Cluj-Napoca (14665)  Cluj-Napoca - RO
+speedtest.vodafone.it                 Vodafone IT (4302)                             Milan - IT
+speedtest2.dkm.cz                     Vodafone CZ (49678)                            Prague - CZ
+speedtest4.vodafone.com.eg            Vodafone Egypt (55369)                         Giza - EG
+speedtest.dkm.cz                      Vodafone CZ (1363)                             Brno - CZ
+speedtest6.vodafone.com.eg            Vodafone Egypt (34283)                         Cairo - EG
+speedtest7.vodafone.com.eg            Vodafone Egypt (54076)                         Beni Suef - EG
+speedtestbucuresti.vodafone.ro        Vodafone Romania Mobile - Bucharest (18902)    Bucharest - RO
+stnetb.fixed-nw.vodafone.ro           Vodafone Romania Fixed – Bucharest (15004)     Bucharest - RO
+speedtest11.vodafone.com.eg           Vodafone Egypt (5514)                          Al Muqattam - EG
+speedtest.pmt.pf                      Vodafone Polynésie (33163)                     Faaa - PF
+speedtest2.vodafone.com.tr            Vodafone TR (3151)                             Istanbul - TR
+speedtest10.vodafone.com.eg           Vodafone Egypt (7237)                          Mansoura - EG
+speedtest.c.is                        Vodafone IS (4141)                             Reykjavík - IS
+speedtest03.vodafone.com.qa           Vodafone Qatar PQSC (51669)                    Lusail - QA
+speedtest3.vodafone.com.tr            Vodafone TR (5233)                             Izmir - TR
+speedtest8.vodafone.com.eg            Vodafone Egypt (1689)                          Alexandria - EG
+speedtest6.vodafone.com.tr            Vodafone TR (12702)                            Antalya - TR
+speedtest8.vodafone.com.tr            Vodafone TR (13092)                            Samsun - TR
+speedtest5.vodafone.com.eg            Vodafone Egypt (42668)                         10th of Ramadan - EG
+speedtest9.vodafone.com.tr            Vodafone TR (13481)                            Erzurum - TR
+speedtest.suva.vodafone.net.fj        Vodafone Fiji Ltd (15730)                      Suva - FJ
+speedtest.pom.vodafone.com.pg         Vodafone PNG (42900)                           Port Moresby - PG
+speedtest.vodafone.com.vu             Vodafone Vanuatu (32234)                       Port Vila - VU
+speedtest.ltk.vodafone.net.fj         Vodafone Fiji Ltd (36485)                      Lautoka - FJ
+speedtest.lae.vodafone.com.pg         Vodafone PNG (58584)                           Lae - PG
+speedtest.vodafone.com.ki             Vodafone (7462)                                Bairiki - KI
+speedtest-watford.vodafone.co.uk      Vodafone UK (31171)                            Watford - GB
+speedtest-bracknell.vodafone.co.uk    Vodafone UK (23389)                            Bracknell - GB
+speedtest-london-east.vodafone.co.uk  Vodafone UK (24281)                            London - GB
+ooklaspeedtest.vodafone.gr            Vodafone - Panafon S.A. (19078)                Athens - GR
+speedtestrm1.vodafone.it              Vodafone Italy (11842)                         Rome - IT
+speedtest-manchester.vodafone.co.uk   Vodafone UK (23968)                            Manchester - GB
+speedtest.vodafone.al                 Vodafone Albania (1755)                        Tirana - AL
+speedtest-edinburgh.vodafone.co.uk    Vodafone UK (38157)                            Edinburgh - GB
+ookla.oyster.net.ck                   Vodafone Cook Islands (11381)                  Rarotonga - CK
