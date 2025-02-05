@@ -1,0 +1,35 @@
+velocimetro-sts.virtua.com.br  Claro Net Vírtua (21852)  Santos - BR
+velocimetro-spo.virtua.com.br  Claro Net Vírtua (16322)  São Paulo - BR
+velocimetro-lra.virtua.com.br  Claro Net Vírtua (54247)  Limeira - BR
+velocimetro-amr.virtua.com.br  Claro Net Vírtua (22460)  Americana - BR
+velocimetro-soc.virtua.com.br  Claro Net Vírtua (22269)  Sorocaba - BR
+velocimetro-ctb.virtua.com.br  Claro Net Vírtua (21939)  Curitiba - BR
+velocimetro-cbx.virtua.com.br  Claro Net Vírtua (54298)  Colombo - BR
+velocimetro-sjc.virtua.com.br  Claro Net Vírtua (21837)  São José dos Campos - BR
+velocimetro-fln.virtua.com.br  Claro Net Vírtua (16338)  Florianópolis - BR
+velocimetro-lda.virtua.com.br  Claro Net Vírtua (22392)  Londrina - BR
+velocimetro-vta.virtua.com.br  Claro Net Vírtua (22472)  Vitória - BR
+velocimetro-cpe.virtua.com.br  Claro Net Vírtua (22251)  Campo Grande - BR
+velocimetro-cco.virtua.com.br  Claro Net Vírtua (53080)  Chapecó - BR
+velocimetro-sdr.virtua.com.br  Claro Net Vírtua (21836)  Salvador - BR
+velocimetro-aiu.virtua.com.br  Claro Net Vírtua (53881)  Ananindeua - BR
+velocimetro-blm.virtua.com.br  Claro Net Vírtua (21853)  Belém - BR
+velocimetro-sls.virtua.com.br  Claro Net Vírtua (22248)  São Luís - BR
+velocimetro-mns.virtua.com.br  Claro Net Vírtua (22139)  Manaus - BR
+velocimetro-rib.virtua.com.br  Claro Net Vírtua (21577)  Ribeirão Preto - BR
+velocimetro-nri.virtua.com.br  Claro Net Vírtua (22359)  Niterói - BR
+velocimetro-grs.virtua.com.br  Claro Net Vírtua (22249)  Guarulhos - BR
+velocimetro-bhz.virtua.com.br  Claro Net Vírtua (22406)  Belo Horizonte - BR
+velocimetro-goi.virtua.com.br  Claro Net Vírtua (22061)  Goiânia - BR
+velocimetro-sne.virtua.com.br  Claro Net Vírtua (22080)  Santo André - BR
+velocimetro-rjo.virtua.com.br  Claro Net Vírtua (14612)  Rio de Janeiro - BR
+velocimetro-oco.virtua.com.br  Claro Net Vírtua (21935)  Osasco - BR
+velocimetro-nho.virtua.com.br  Claro Net Vírtua (54267)  Novo Hamburgo - BR
+velocimetro-cza.virtua.com.br  Claro Net Vírtua (56620)  Cruz Alta - BR
+velocimetro-fla.virtua.com.br  Claro Net Vírtua (17728)  Fortaleza - BR
+velocimetro-bsb.virtua.com.br  Claro Net Vírtua (15014)  Brasília - BR
+velocimetro-cba.virtua.com.br  Claro Net Vírtua (22060)  Cuiabá - BR
+velocimetro-poa.virtua.com.br  Claro Net Vírtua (14143)  Porto Alegre - BR
+velocimetro-rce.virtua.com.br  Claro Net Vírtua (21938)  Recife - BR
+velocimetro-aju.virtua.com.br  Claro Net Vírtua (13377)  Aracaju - BR
+velocimetro-tsa.virtua.com.br  Claro Net Vírtua (22062)  Teresina - BR

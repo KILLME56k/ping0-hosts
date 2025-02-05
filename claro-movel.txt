@@ -1,0 +1,46 @@
+spd8.claro.com.br   Claro Móvel (18127)       Santos - BR
+spd5.claro.com.br   Claro Móvel SP1 (18103)   São Paulo - BR
+spd4.claro.com.br   Claro Móvel SP2 (18104)   Campinas - BR
+spd10.claro.com.br  Claro Móvel (18535)       São José dos Campos - BR
+spd61.claro.com.br  Claro Móvel CPS (62829)   Campinas - BR
+spd11.claro.com.br  Claro Móvel (18526)       Curitiba - BR
+spd13.claro.com.br  Claro Móvel (21732)       Florianópolis - BR
+spd56.claro.com.br  Claro Móvel (64235)       Ribeirão Preto - BR
+spd2.claro.com.br   Claro Móvel RJ1 (18102)   Rio de Janeiro - BR
+spd57.claro.com.br  Claro Móvel (56542)       São José do Rio Preto - BR
+spd3.claro.com.br   Claro Móvel RJ2 (18101)   Rio de Janeiro - BR
+spd66.claro.com.br  Claro Móvel (64234)       Joinville - BR
+spd29.claro.com.br  Claro Móvel (21749)       Vitória - BR
+spd12.claro.com.br  Claro Móvel (18527)       Porto Alegre - BR
+spd31.claro.com.br  Claro Móvel CEM (32537)   Belo Horizonte - BR
+spd55.claro.com.br  Claro Móvel CPE2 (61598)  Campo Grande - BR
+spd50.claro.com.br  Claro Móvel (56506)       Goiânia - BR
+spd32.claro.com.br  Claro Móvel (29326)       Brasília - BR
+spd59.claro.com.br  Claro Móvel BSB2 (48131)  Brasília - BR
+spd39.claro.com.br  Claro Móvel CPE (30240)   Campo Grande - BR
+spd40.claro.com.br  Claro Móvel CBA (30241)   Cuiabá - BR
+spd42.claro.com.br  Claro Móvel PMJ (30243)   Palmas - BR
+spd52.claro.com.br  Claro Móvel GNA3 (60274)  Goiânia - BR
+spd25.claro.com.br  Claro Móvel (21744)       Aracaju - BR
+spd9.claro.com.br   Claro Móvel (18889)       Salvador - BR
+spd20.claro.com.br  Claro Móvel (21739)       Maceió - BR
+spd54.claro.com.br  Claro Móvel PMJ2 (60259)  Palmas - BR
+spd51.claro.com.br  Claro Móvel CBA2 (61408)  Cuiabá - BR
+spd26.claro.com.br  Claro Móvel (21746)       Macapá - BR
+spd34.claro.com.br  Claro Móvel BLM (34861)   Belém - BR
+spd24.claro.com.br  Claro Móvel (21743)       Natal - BR
+spd1.claro.com.br   Claro Móvel (18890)       Fortaleza - BR
+spd60.claro.com.br  Claro Móvel FLA2 (46631)  Fortaleza - BR
+spd21.claro.com.br  Claro Móvel (21740)       João Pessoa - BR
+spd23.claro.com.br  Claro Móvel (21742)       Teresina - BR
+spd27.claro.com.br  Claro Móvel (21747)       São Luís - BR
+spd62.claro.com.br  Claro Móvel (56274)       Recife - BR
+spd28.claro.com.br  Claro Móvel (21748)       Boa Vista - BR
+spd41.claro.com.br  Claro Móvel PVO (30242)   Porto Velho - BR
+spd43.claro.com.br  Claro Móvel SLS (63152)   São Luís - BR
+spd47.claro.com.br  Claro Móvel JPA (56525)   João Pessoa - BR
+spd48.claro.com.br  Claro Móvel NTL (61188)   Natal - BR
+spd33.claro.com.br  Claro Móvel MNS (37453)   Manaus - BR
+spd14.claro.com.br  Claro Móvel (21733)       Rio Branco - BR
+spd49.claro.com.br  Claro Móvel RBO2 (61411)  Rio Branco - BR
+spd53.claro.com.br  Claro Móvel PVO2 (61495)  Porto Velho - BR
